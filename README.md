@@ -51,3 +51,15 @@ Implement algorithm with go
 题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
 [0003](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) | [无重复字符的最长子串](https://github.com/cocowh/algorithm/blob/master/medium/3.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.go) | 中等
+
+### divide and conquer
+
+题号(原题链接) | 题名（解答链接） | 难度
+:-: | :-: | :-:
+[0004](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | [寻找两个正序数组的中位数](https://github.com/cocowh/algorithm/blob/master/hard/4.%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.go) | 困难
+
+### binary search
+
+题号(原题链接) | 题名（解答链接） | 难度
+:-: | :-: | :-:
+[0004](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | [寻找两个正序数组的中位数](https://github.com/cocowh/algorithm/blob/master/hard/4.%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.go) | 困难
