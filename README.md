@@ -3,22 +3,22 @@ Implement algorithm with go
 
 ## TAG
 
-### [array](https://github.com/cocowh/algorithm/blob/master/array.md)
+### [array](https://github.com/cocowh/algorithm/blob/master/tag/array.md)
 
-### [link list](https://github.com/cocowh/algorithm/blob/master/link-list.md)
+### [link list](https://github.com/cocowh/algorithm/blob/master/tag/link-list.md)
 
-### [backtra](https://github.com/cocowh/algorithm/blob/master/backtra.md)
+### [backtra](https://github.com/cocowh/algorithm/blob/master/tag/backtra.md)
 
-### [hash table](https://github.com/cocowh/algorithm/blob/master/hash-table.md)
+### [hash table](https://github.com/cocowh/algorithm/blob/master/tag/hash-table.md)
 
-### [math](https://github.com/cocowh/algorithm/blob/master/math.md)
+### [math](https://github.com/cocowh/algorithm/blob/master/tag/math.md)
 
-### [two pointers](https://github.com/cocowh/algorithm/blob/master/two-pointers.md)
+### [two pointers](https://github.com/cocowh/algorithm/blob/master/tag/two-pointers.md)
 
-### [string](https://github.com/cocowh/algorithm/blob/master/string.md)
+### [string](https://github.com/cocowh/algorithm/blob/master/tag/string.md)
 
-### [sliding window](https://github.com/cocowh/algorithm/blob/master/sliding-window.md)
+### [sliding window](https://github.com/cocowh/algorithm/blob/master/tag/sliding-window.md)
 
-### [divide and conquer](https://github.com/cocowh/algorithm/blob/master/divide-and-conquer.md)
+### [divide and conquer](https://github.com/cocowh/algorithm/blob/master/tag/divide-and-conquer.md)
 
-### [binary search](https://github.com/cocowh/algorithm/blob/master/binary-search.md)
+### [binary search](https://github.com/cocowh/algorithm/blob/master/tag/binary-search.md)
