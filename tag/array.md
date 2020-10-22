@@ -1,4 +1,4 @@
 题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
 [0001](https://leetcode-cn.com/problems/two-sum/description/) | [两数之和](https://github.com/cocowh/algorithm/blob/master/easy/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.go) | 简单
-[0011](https://leetcode-cn.com/problems/container-with-most-water/description/) | [盛最多水的容器](https://github.com/cocowh/algorithm/blob/master/easy/1.盛最多水的容器.go) | 中等
+[0011](https://leetcode-cn.com/problems/container-with-most-water/description/) | [盛最多水的容器](https://github.com/cocowh/algorithm/blob/master/medium/1.盛最多水的容器.go) | 中等
