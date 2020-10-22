@@ -28,7 +28,7 @@ func threeSum(nums []int) [][]int {
 					r--
 				} else if nums[l] == nums[l-1] {
 					l++
-				} else if nums[r] == nums[r-1] {
+				} else if nums[r] == nums[r+1] {
 					r--
 				} else {
 					ret = append(ret, []int{nums[i], nums[l], nums[r]})
