@@ -1,3 +1,11 @@
+package medium
+
+import "sort"
+
+func ThreeSum(nums []int) [][]int {
+	return threeSum(nums)
+}
+
 /*
  * @lc app=leetcode.cn id=15 lang=golang
  *
@@ -46,4 +54,3 @@ func threeSum(nums []int) [][]int {
 }
 
 // @lc code=end
-

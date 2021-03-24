@@ -2,6 +2,10 @@ package hard
 
 import "math"
 
+func FindMedianSortedArrays(nums1 []int, nums2 []int) float64 {
+	return findMedianSortedArrays(nums1, nums2)
+}
+
 /*
  * @lc app=leetcode.cn id=4 lang=golang
  *

@@ -1,3 +1,14 @@
+package medium
+
+import (
+	"math"
+	"strings"
+)
+
+func MyAtoi(str string) int {
+	return myAtoi(str)
+}
+
 /*
  * @lc app=leetcode.cn id=8 lang=golang
  *

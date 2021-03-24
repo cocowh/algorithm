@@ -1,3 +1,14 @@
+package medium
+
+import (
+	"math"
+	"sort"
+)
+
+func ThreeSumClosest(nums []int, target int) int {
+	return threeSumClosest(nums, target)
+}
+
 /*
  * @lc app=leetcode.cn id=16 lang=golang
  *
@@ -31,4 +42,3 @@ func threeSumClosest(nums []int, target int) int {
 }
 
 // @lc code=end
-

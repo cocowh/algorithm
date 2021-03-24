@@ -1,5 +1,9 @@
 package medium
 
+func AddTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
+	return addTwoNumbers(l1, l2)
+}
+
 // ListNode struct
 type ListNode struct {
 	Val  int

@@ -1,5 +1,9 @@
 package medium
 
+func LetterCombinations(digits string) []string {
+	return letterCombinations(digits)
+}
+
 /*
  * @lc app=leetcode.cn id=17 lang=golang
  *

@@ -2,6 +2,10 @@ package easy
 
 import "math"
 
+func Reverse(x int) int {
+	return reverse(x)
+}
+
 /*
  * @lc app=leetcode.cn id=7 lang=golang
  *

@@ -4,3 +4,4 @@
 [0011](https://leetcode-cn.com/problems/container-with-most-water/description/) | [盛最多水的容器](https://github.com/cocowh/algorithm/blob/master/medium/11.盛最多水的容器.go) | 中等
 [0015](https://leetcode-cn.com/problems/3sum/description/) | [三数之和](https://github.com/cocowh/algorithm/blob/master/medium/15.三数之和.go) | 中等
 [0016](https://leetcode-cn.com/problems/3sum-closest/description/) | [最接近的三数之和](https://github.com/cocowh/algorithm/blob/master/medium/16.最接近的三数之和.go) | 中等
+[0287](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | [寻找重复数](https://github.com/cocowh/algorithm/blob/master/medium/287.寻找重复数.go) | 中等

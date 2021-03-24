@@ -1,5 +1,9 @@
 package medium
 
+func LongestPalindrome(s string) string {
+	return longestPalindrome(s)
+}
+
 /*
  * @lc app=leetcode.cn id=5 lang=golang
  *

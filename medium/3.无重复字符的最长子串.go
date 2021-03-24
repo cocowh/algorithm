@@ -1,5 +1,9 @@
 package medium
 
+func LengthOfLongestSubstring(s string) int {
+	return lengthOfLongestSubstring(s)
+}
+
 /*
  * @lc app=leetcode.cn id=3 lang=golang
  *

@@ -1,3 +1,9 @@
+package medium
+
+func MaxArea(height []int) int {
+	return maxArea(height)
+}
+
 /*
  * @lc app=leetcode.cn id=11 lang=golang
  *
@@ -6,7 +12,7 @@
 
 // @lc code=start
 
-func max(x, y int) int {
+func myMax(x, y int) int {
 	if x < y {
 		return y
 	}
@@ -17,10 +23,10 @@ func maxArea(height []int) int {
 	i, j, maxA := 0, len(height)-1, 0
 	for i != j {
 		if height[i] < height[j] {
-			maxA = max(maxA, height[i]*(j-i))
+			maxA = myMax(maxA, height[i]*(j-i))
 			i++
 		} else {
-			maxA = max(maxA, height[j]*(j-i))
+			maxA = myMax(maxA, height[j]*(j-i))
 			j--
 		}
 	}
@@ -28,4 +34,3 @@ func maxArea(height []int) int {
 }
 
 // @lc code=end
-

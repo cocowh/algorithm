@@ -1,5 +1,9 @@
 package medium
 
+func Convert(s string, numRows int) string {
+	return convert(s, numRows)
+}
+
 /*
  * @lc app=leetcode.cn id=6 lang=golang
  *

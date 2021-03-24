@@ -1,3 +1,9 @@
+package medium
+
+func IntToRoman(num int) string {
+	return intToRoman(num)
+}
+
 /*
  * @lc app=leetcode.cn id=12 lang=golang
  *
@@ -16,4 +22,3 @@ func intToRoman(num int) string {
 }
 
 // @lc code=end
-

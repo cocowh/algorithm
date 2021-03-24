@@ -1,3 +1,9 @@
+package easy
+
+func LongestCommonPrefix(strs []string) string {
+	return longestCommonPrefix(strs)
+}
+
 /*
  * @lc app=leetcode.cn id=14 lang=golang
  *
@@ -14,15 +20,15 @@ func longestCommonPrefix(strs []string) string {
 		return strs[0]
 	}
 	minLen := len(strs[0])
-	for _,str := range strs {
+	for _, str := range strs {
 		if len(str) < minLen {
 			minLen = len(str)
 		}
 	}
-	for minLen >0 {
-		for i := 0; i< strArrLen; i++ {
+	for minLen > 0 {
+		for i := 0; i < strArrLen; i++ {
 			if strs[i][:minLen] == strs[0][:minLen] {
-				if  i == strArrLen - 1 {
+				if i == strArrLen-1 {
 					return strs[0][:minLen]
 				} else {
 					continue
@@ -33,9 +39,7 @@ func longestCommonPrefix(strs []string) string {
 			}
 		}
 	}
-	return  ""
+	return ""
 }
 
-
 // @lc code=end
-

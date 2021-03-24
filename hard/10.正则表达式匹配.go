@@ -1,3 +1,9 @@
+package hard
+
+func IsMatch(s string, p string) bool {
+	return isMatch(s, p)
+}
+
 /*
  * @lc app=leetcode.cn id=10 lang=golang
  *
@@ -31,4 +37,3 @@ func isMatch(s string, p string) bool {
 // 其他解法：
 
 //      [有限状态机](https://leetcode-cn.com/problems/regular-expression-matching/solution/yi-bu-dao-wei-zhi-jie-an-zheng-ze-biao-da-shi-de-s/)
-

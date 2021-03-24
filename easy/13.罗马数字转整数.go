@@ -1,3 +1,9 @@
+package easy
+
+func RomanToInt(s string) int {
+	return romanToInt(s)
+}
+
 /*
  * @lc app=leetcode.cn id=13 lang=golang
  *
@@ -30,4 +36,3 @@ func romanToInt(s string) int {
 }
 
 // @lc code=end
-

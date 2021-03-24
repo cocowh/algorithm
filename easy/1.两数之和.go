@@ -1,5 +1,9 @@
 package easy
 
+func TwoSum(nums []int, target int) []int {
+	return twoSum(nums, target)
+}
+
 /*
  * @lc app=leetcode.cn id=1 lang=golang
  *

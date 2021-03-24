@@ -1,3 +1,9 @@
+package easy
+
+func IsPalindrome(x int) bool {
+	return isPalindrome(x)
+}
+
 /*
  * @lc app=leetcode.cn id=9 lang=golang
  *
@@ -17,11 +23,7 @@ func isPalindrome(x int) bool {
 		temp /= 10
 		reverse = reverse*10 + rem
 	}
-	if reverse^x == 0 {
-		return true
-	}
-	return false
+	return reverse^x == 0
 }
 
 // @lc code=end
-
