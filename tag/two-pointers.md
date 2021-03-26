@@ -9,4 +9,5 @@
 [0026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | [删除有序数组中的重复项](https://github.com/cocowh/algorithm/blob/master/easy/26.删除有序数组中的重复项.go) | 简单
 [0027](https://leetcode-cn.com/problems/remove-element/description/) | [移除元素](https://github.com/cocowh/algorithm/blob/master/easy/27.移除元素.go) | 简单
 [0028](https://leetcode-cn.com/problems/implement-strstr/description/) | [实现 strStr()](https://github.com/cocowh/algorithm/blob/master/easy/28.实现-str-str.go) | 简单
+[0030](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/description/) | [串联所有单词的子串](https://github.com/cocowh/algorithm/blob/master/hard/30.串联所有单词的子串.go) | 困难
 [0287](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | [寻找重复数](https://github.com/cocowh/algorithm/blob/master/medium/287.寻找重复数.go) | 中等
