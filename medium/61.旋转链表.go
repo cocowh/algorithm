@@ -19,7 +19,7 @@ func RotateRight(head *ListNode, k int) *ListNode {
  * }
  */
 func rotateRight(head *ListNode, k int) *ListNode {
-	if head == nil || head.Next == nil {
+	if head == nil || head.Next == nil || k == 0 {
 		return head
 	}
 	length, tailNode := 0, head
@@ -27,9 +27,9 @@ func rotateRight(head *ListNode, k int) *ListNode {
 		length++
 		tailNode = tailNode.Next
 	}
-	length++
-	tailNode.Next = head
-	for i := 0; i < (length-k%length)%length; i++ {
+	length++                                        // 弥补最后一个节点，未计算
+	tailNode.Next = head                            // 形成环
+	for i := 0; i < (length-k%length)%length; i++ { // 右移1位，则对应要遍历length-1位找到断开点
 		tailNode = tailNode.Next
 	}
 	head = tailNode.Next
