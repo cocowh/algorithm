@@ -6,3 +6,4 @@
 [0098](https://leetcode-cn.com/problems/validate-binary-search-tree/description/) | [验证二叉搜索树](https://github.com/cocowh/algorithm/blob/master/medium/98.验证二叉搜索树.go) | 中等
 [0099](https://leetcode-cn.com/problems/recover-binary-search-tree/description/) | [恢复二叉搜索树](https://github.com/cocowh/algorithm/blob/master/hard/99.恢复二叉搜索树.go) | 困难
 [0100](https://leetcode-cn.com/problems/same-tree/description/) | [相同的树](https://github.com/cocowh/algorithm/blob/master/easy/100.相同的树.go) | 简单
+[0101](https://leetcode-cn.com/problems/symmetric-tree/description/) | [对称二叉树](https://github.com/cocowh/algorithm/blob/master/easy/101.对称二叉树.go) | 简单
