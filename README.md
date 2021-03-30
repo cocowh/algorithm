@@ -3,6 +3,8 @@ Implement algorithm with go
 
 ## TAG
 
+### [tree](https://github.com/cocowh/algorithm/blob/master/tag/tree.md)
+
 ### [dynamic programming](https://github.com/cocowh/algorithm/blob/master/tag/dynamic-programming.md)
 
 ### [link list](https://github.com/cocowh/algorithm/blob/master/tag/link-list.md)
