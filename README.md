@@ -5,6 +5,10 @@ Implement algorithm with go
 
 ### [tree](https://github.com/cocowh/algorithm/blob/master/tag/tree.md)
 
+### [breadth first search](https://github.com/cocowh/algorithm/blob/master/tag/breadth-first-search.md)
+
+### [depth first search](https://github.com/cocowh/algorithm/blob/master/tag/depth-first-search.md)
+
 ### [dynamic programming](https://github.com/cocowh/algorithm/blob/master/tag/dynamic-programming.md)
 
 ### [link list](https://github.com/cocowh/algorithm/blob/master/tag/link-list.md)
