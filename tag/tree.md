@@ -9,3 +9,4 @@
 [0101](https://leetcode-cn.com/problems/symmetric-tree/description/) | [对称二叉树](https://github.com/cocowh/algorithm/blob/master/easy/101.对称二叉树.go) | 简单
 [0102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/) | [二叉树的层序遍历](https://github.com/cocowh/algorithm/blob/master/medium/102.二叉树的层序遍历.go) | 中等
 [0103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [二叉树的锯齿形层序遍历](https://github.com/cocowh/algorithm/blob/master/medium/103.二叉树的锯齿形层序遍历.go) | 中等
+[0104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [二叉树的最大深度](https://github.com/cocowh/algorithm/blob/master/easy/104.二叉树的最大深度.go) | 简单
