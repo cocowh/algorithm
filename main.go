@@ -1,7 +1,7 @@
 package main
 
 import (
-	"algorithm/hard"
+	"algorithm/medium"
 	"fmt"
 )
 
@@ -17,7 +17,8 @@ func main() {
 	// fmt.Println(medium.LengthOfLongestSubstring(StrChar))
 	// easy.RemoveDuplicates(ArrInt)
 	// PrintArrInt(ArrInt)
-	fmt.Println(hard.FindSubstring(StrTempOne, StrArr))
+	// fmt.Println(hard.FindSubstring(StrTempOne, StrArr))
+	fmt.Println(medium.GrayCode(4))
 }
 
 func PrintArrInt(arr []int) {
