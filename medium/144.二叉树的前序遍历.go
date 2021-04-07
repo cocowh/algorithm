@@ -24,7 +24,7 @@ func preorderTraversal(root *TreeNode) []int {
 	// return PreorderTraversalByRecursion(root)
 }
 
-func PreorderTraversalByRecursion(node *TreeNode) []int {
+func PreorderTraversalByDFS(node *TreeNode) []int {
 	if node == nil {
 		return nil
 	}
@@ -32,8 +32,8 @@ func PreorderTraversalByRecursion(node *TreeNode) []int {
 		return []int{node.Val}
 	}
 	res := append([]int{}, node.Val)
-	res = append(res, PreorderTraversalByRecursion(node.Left)...)
-	res = append(res, PreorderTraversalByRecursion(node.Right)...)
+	res = append(res, PreorderTraversalByDFS(node.Left)...)
+	res = append(res, PreorderTraversalByDFS(node.Right)...)
 	return res
 }
 
