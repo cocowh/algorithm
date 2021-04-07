@@ -10,3 +10,4 @@
 [0112](https://leetcode-cn.com/problems/path-sum/description/) | [路径总和](https://github.com/cocowh/algorithm/blob/master/easy/112.路径总和.go) | 简单
 [0113](https://leetcode-cn.com/problems/path-sum-ii/description/) | [路径总和 II](https://github.com/cocowh/algorithm/blob/master/medium/113.路径总和-ii.go) | 中等
 [0114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/description/) | [二叉树展开为链表](https://github.com/cocowh/algorithm/blob/master/medium/114.二叉树展开为链表.go) | 中等
+[0129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/description/) | [求根节点到叶节点数字之和](https://github.com/cocowh/algorithm/blob/master/medium/129.求根节点到叶节点数字之和.go) | 中等
