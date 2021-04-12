@@ -6,4 +6,5 @@
 [0062](https://leetcode-cn.com/problems/unique-paths/description/) | [不同路径](https://github.com/cocowh/algorithm/blob/master/medium/62.不同路径.go) | 中等
 [0063](https://leetcode-cn.com/problems/unique-paths-ii/description/) | [不同路径 II](https://github.com/cocowh/algorithm/blob/master/medium/63.不同路径-ii.go) | 中等
 [0064](https://leetcode-cn.com/problems/minimum-path-sum/description/) | [最小路径和](https://github.com/cocowh/algorithm/blob/master/medium/64.最小路径和.go) | 中等
+[0070](https://leetcode-cn.com/problems/climbing-stairs/description/) | [爬楼梯](https://github.com/cocowh/algorithm/blob/master/easy/70.爬楼梯.go) | 简单
 [0096](https://leetcode-cn.com/problems/unique-binary-search-trees/description/) | [不同的二叉搜索树](https://github.com/cocowh/algorithm/blob/master/medium/96.不同的二叉搜索树.go) | 中等
