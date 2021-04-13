@@ -8,4 +8,5 @@
 [0064](https://leetcode-cn.com/problems/minimum-path-sum/description/) | [最小路径和](https://github.com/cocowh/algorithm/blob/master/medium/64.最小路径和.go) | 中等
 [0070](https://leetcode-cn.com/problems/climbing-stairs/description/) | [爬楼梯](https://github.com/cocowh/algorithm/blob/master/easy/70.爬楼梯.go) | 简单
 [0091](https://leetcode-cn.com/problems/decode-ways/description/) | [解码方法](https://github.com/cocowh/algorithm/blob/master/medium/91.解码方法.go) | 中等
+[0095](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/description/) | [不同的二叉搜索树 II](https://github.com/cocowh/algorithm/blob/master/medium/95.不同的二叉搜索树-ii.go) | 中等
 [0096](https://leetcode-cn.com/problems/unique-binary-search-trees/description/) | [不同的二叉搜索树](https://github.com/cocowh/algorithm/blob/master/medium/96.不同的二叉搜索树.go) | 中等
