@@ -10,3 +10,4 @@
 [0091](https://leetcode-cn.com/problems/decode-ways/description/) | [解码方法](https://github.com/cocowh/algorithm/blob/master/medium/91.解码方法.go) | 中等
 [0095](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/description/) | [不同的二叉搜索树 II](https://github.com/cocowh/algorithm/blob/master/medium/95.不同的二叉搜索树-ii.go) | 中等
 [0096](https://leetcode-cn.com/problems/unique-binary-search-trees/description/) | [不同的二叉搜索树](https://github.com/cocowh/algorithm/blob/master/medium/96.不同的二叉搜索树.go) | 中等
+[0115](https://leetcode-cn.com/problems/distinct-subsequences/description/) | [不同的子序列](https://github.com/cocowh/algorithm/blob/master/hard/115.不同的子序列.go) | 困难
