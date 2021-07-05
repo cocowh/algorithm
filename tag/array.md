@@ -13,3 +13,4 @@
 题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
 [0003](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [数组中重复的数字](https://github.com/cocowh/algorithm/blob/master/easy/offer.3.数组中重复的数字.go) | 简单
+[0004](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [二维数组中的查找](https://github.com/cocowh/algorithm/blob/master/easy/offer.4.二维数组中的查找.go) | 中等
