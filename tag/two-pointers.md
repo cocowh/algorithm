@@ -16,3 +16,10 @@
 [0061](https://leetcode-cn.com/problems/rotate-list/description/) | [旋转链表](https://github.com/cocowh/algorithm/blob/master/medium/61.旋转链表.go) | 中等
 [0075](https://leetcode-cn.com/problems/rotate-list/description/) | [颜色分类](https://github.com/cocowh/algorithm/blob/master/medium/75.颜色分类.go) | 中等
 [0287](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | [寻找重复数](https://github.com/cocowh/algorithm/blob/master/medium/287.寻找重复数.go) | 中等
+
+
+### 剑指offer
+
+题号(原题链接) | 题名（解答链接） | 难度
+:-: | :-: | :-:
+[0006](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [从尾到头打印链表](https://github.com/cocowh/algorithm/blob/master/easy/offer.6.从尾到头打印链表.go) | 简单
