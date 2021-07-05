@@ -17,3 +17,10 @@
 [0145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/) | [二叉树的后序遍历](https://github.com/cocowh/algorithm/blob/master/medium/145.二叉树的后序遍历.go) | 中等
 [0226](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [翻转二叉树](https://github.com/cocowh/algorithm/blob/master/easy/226.翻转二叉树.go) | 简单
 [0230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/) | [二叉搜索树中第k小的元素](https://github.com/cocowh/algorithm/blob/master/medium/230.二叉搜索树中第k小的元素.go) | 中等
+
+
+### 剑指offer
+
+题号(原题链接) | 题名（解答链接） | 难度
+:-: | :-: | :-:
+[0007](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [重建二叉树](https://github.com/cocowh/algorithm/blob/master/medium/105.从前序与中序遍历序列构造二叉树.go) | 中等
