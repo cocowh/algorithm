@@ -13,3 +13,4 @@
 题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
 [0006](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [从尾到头打印链表](https://github.com/cocowh/algorithm/blob/master/easy/offer.6.从尾到头打印链表.go) | 简单
+[0009](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [用两个栈实现队列](https://github.com/cocowh/algorithm/blob/master/easy/offer.9.用两个栈实现队列.go) | 简单

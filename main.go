@@ -1,7 +1,7 @@
 package main
 
 import (
-	"algorithm/medium"
+	"algorithm/easy"
 	"fmt"
 )
 
@@ -18,7 +18,8 @@ func main() {
 	// easy.RemoveDuplicates(ArrInt)
 	// PrintArrInt(ArrInt)
 	// fmt.Println(hard.FindSubstring(StrTempOne, StrArr))
-	fmt.Println(medium.GrayCode(4))
+	// fmt.Println(medium.GrayCode(4))
+	easy.TestStackToQueue()
 }
 
 func PrintArrInt(arr []int) {
