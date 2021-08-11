@@ -22,4 +22,5 @@
 
 题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
-[0010-I](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [斐波那契数列-I](https://github.com/cocowh/algorithm/blob/master/easy/offer.10-I.斐波那契数列.go) | 简单
+[0010-I](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [斐波那契数列](https://github.com/cocowh/algorithm/blob/master/easy/offer.10-I.斐波那契数列.go) | 简单
+[0010-II](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [青蛙跳台阶问题](https://github.com/cocowh/algorithm/blob/master/easy/offer.10-II.青蛙跳台阶问题.go) | 简单

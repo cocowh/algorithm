@@ -19,7 +19,7 @@ func main() {
 	// PrintArrInt(ArrInt)
 	// fmt.Println(hard.FindSubstring(StrTempOne, StrArr))
 	// fmt.Println(medium.GrayCode(4))
-	fmt.Println(easy.Fib(95))
+	fmt.Println(easy.NumWays(3))
 }
 
 func PrintArrInt(arr []int) {
