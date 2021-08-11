@@ -19,7 +19,7 @@ func main() {
 	// PrintArrInt(ArrInt)
 	// fmt.Println(hard.FindSubstring(StrTempOne, StrArr))
 	// fmt.Println(medium.GrayCode(4))
-	easy.TestStackToQueue()
+	fmt.Println(easy.Fib(95))
 }
 
 func PrintArrInt(arr []int) {

@@ -16,3 +16,10 @@
 [0120](https://leetcode-cn.com/problems/triangle/description/) | [三角形最小路径和](https://github.com/cocowh/algorithm/blob/master/medium/120.三角形最小路径和.go) | 中等
 [0121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) | [买卖股票的最佳时机](https://github.com/cocowh/algorithm/blob/master/easy/121.买卖股票的最佳时机.go) | 简单
 [0122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [买卖股票的最佳时机-II](https://github.com/cocowh/algorithm/blob/master/easy/122.买卖股票的最佳时机-ii.go) | 简单
+
+
+### 剑指offer
+
+题号(原题链接) | 题名（解答链接） | 难度
+:-: | :-: | :-:
+[0010-I](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [斐波那契数列-I](https://github.com/cocowh/algorithm/blob/master/easy/offer.10-I.斐波那契数列.go) | 简单
