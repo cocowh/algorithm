@@ -1,5 +1,9 @@
 package easy
 
+func FindRepeatNumber(nums []int) int {
+	return findRepeatNumber(nums)
+}
+
 func findRepeatNumber(nums []int) int {
 	for i := 0; i < len(nums); {
 		if nums[i] == i {

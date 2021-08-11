@@ -1,5 +1,9 @@
 package easy
 
+func ReplaceSpace(s string) string {
+	return replaceSpace(s)
+}
+
 func replaceSpace(s string) string {
 	res := []byte{}
 	for i := 0; i < len(s); i++ {

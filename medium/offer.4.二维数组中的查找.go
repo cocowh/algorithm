@@ -1,5 +1,9 @@
 package medium
 
+func FindNumberIn2DArray(matrix [][]int, target int) bool {
+	return findNumberIn2DArray(matrix, target)
+}
+
 func findNumberIn2DArray(matrix [][]int, target int) bool {
 	rows := len(matrix)
 	if rows == 0 || len(matrix[0]) == 0 {

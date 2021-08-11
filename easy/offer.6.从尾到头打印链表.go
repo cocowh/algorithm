@@ -1,5 +1,9 @@
 package easy
 
+func ReversePrint(head *ListNode) []int {
+	return reversePrint(head)
+}
+
 type ListNode struct {
 	Val  int
 	Next *ListNode
