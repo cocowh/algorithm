@@ -9,3 +9,4 @@
 题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
 [0004](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [二维数组中的查找](https://github.com/cocowh/algorithm/blob/master/medium/offer.4.二维数组中的查找.go) | 中等
+[0011](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [旋转数组的最小数字](https://github.com/cocowh/algorithm/blob/master/medium/offer.11.旋转数组的最小数字.go) | 简单
