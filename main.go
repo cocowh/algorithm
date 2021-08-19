@@ -19,11 +19,12 @@ func main() {
 	// PrintArrInt(ArrInt)
 	// fmt.Println(hard.FindSubstring(StrTempOne, StrArr))
 	// fmt.Println(medium.GrayCode(4))
-	fmt.Println(medium.Exist([][]byte{
-		{'A', 'B', 'C', 'E'},
-		{'S', 'F', 'C', 'S'},
-		{'A', 'D', 'E', 'E'},
-	}, "ABCCED"))
+	// fmt.Println(medium.Exist([][]byte{
+	// 	{'A', 'B', 'C', 'E'},
+	// 	{'S', 'F', 'C', 'S'},
+	// 	{'A', 'D', 'E', 'E'},
+	// }, "ABCCED"))
+	fmt.Println(medium.MovingCount(14, 14, 5))
 }
 
 func PrintArrInt(arr []int) {
