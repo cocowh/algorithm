@@ -1,7 +1,7 @@
 package main
 
 import (
-	"algorithm/medium"
+	"algorithm/easy"
 	"fmt"
 )
 
@@ -24,7 +24,8 @@ func main() {
 	// 	{'S', 'F', 'C', 'S'},
 	// 	{'A', 'D', 'E', 'E'},
 	// }, "ABCCED"))
-	fmt.Println(medium.MovingCount(14, 14, 5))
+	// fmt.Println(medium.MovingCount(14, 14, 5))
+	fmt.Println(easy.PrintNumbers(2))
 }
 
 func PrintArrInt(arr []int) {

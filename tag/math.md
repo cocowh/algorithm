@@ -16,3 +16,4 @@
 :-: | :-: | :-:
 [0015](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [二进制中1的个数](https://github.com/cocowh/algorithm/blob/master/easy/offer.15.二进制中1的个数.go) | 简单
 [0016](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [数值的整数次方](https://github.com/cocowh/algorithm/blob/master/medium/offer.16.数值的整数次方.go) | 中等
+[0017](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [打印从1到最大的n位数](https://github.com/cocowh/algorithm/blob/master/easy/offer.17.打印从1到最大的n位数.go) | 简单
