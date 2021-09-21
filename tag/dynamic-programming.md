@@ -26,3 +26,4 @@
 [0010-II](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [青蛙跳台阶问题](https://github.com/cocowh/algorithm/blob/master/easy/offer.10-II.青蛙跳台阶问题.go) | 简单
 [0013](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [机器人的运动范围](https://github.com/cocowh/algorithm/blob/master/medium/offer.13.机器人的运动范围.go) | 中等
 [0014-I](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [剪绳子](https://github.com/cocowh/algorithm/blob/master/medium/offer.14-I.剪绳子.go) | 中等
+[0014-II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [剪绳子](https://github.com/cocowh/algorithm/blob/master/medium/offer.14-II.剪绳子.go) | 中等
