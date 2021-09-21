@@ -24,3 +24,4 @@
 :-: | :-: | :-:
 [0006](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [从尾到头打印链表](https://github.com/cocowh/algorithm/blob/master/easy/offer.6.从尾到头打印链表.go) | 简单
 [0021](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [调整数组顺序使奇数位于偶数前面](https://github.com/cocowh/algorithm/blob/master/easy/offer.21.调整数组顺序使奇数位于偶数前面.go) | 简单
+[0022](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [链表中倒数第k个节点](https://github.com/cocowh/algorithm/blob/master/easy/offer.22.链表中倒数第k个节点.go) | 简单
