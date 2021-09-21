@@ -34,4 +34,4 @@
 :-: | :-: | :-:
 [0007](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [重建二叉树](https://github.com/cocowh/algorithm/blob/master/medium/105.从前序与中序遍历序列构造二叉树.go) | 中等
 [0026](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | [树的子结构](https://github.com/cocowh/algorithm/blob/master/medium/offer.26.树的子结构.go) | 中等
-[0027](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [二叉树的镜像](https://github.com/cocowh/algorithm/blob/master/easy/226.翻转二叉树.go) | 简单
+[0027](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof) | [二叉树的镜像](https://github.com/cocowh/algorithm/blob/master/easy/226.翻转二叉树.go) | 简单
