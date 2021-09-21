@@ -11,3 +11,4 @@
 题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
 [0012](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [矩阵中的路径](https://github.com/cocowh/algorithm/blob/master/medium/offer.12.矩阵中的路径.go) | 中等
+[0019](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/) | [正则表达式匹配](https://github.com/cocowh/algorithm/blob/master/hard/offer.19.正则表达式匹配.go) | 困难
