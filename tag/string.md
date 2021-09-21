@@ -18,3 +18,4 @@
 题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
 [0005](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [替换空格](https://github.com/cocowh/algorithm/blob/master/easy/offer.5.替换空格.go) | 简单
+[0020](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [表示数值的字符串](https://github.com/cocowh/algorithm/blob/master/medium/offer.20.表示数值的字符串.go) | 中等
