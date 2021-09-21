@@ -15,3 +15,4 @@
 题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
 [0015](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [二进制中1的个数](https://github.com/cocowh/algorithm/blob/master/easy/offer.15.二进制中1的个数.go) | 简单
+[0016](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [数值的整数次方](https://github.com/cocowh/algorithm/blob/master/medium/offer.16.数值的整数次方.go) | 中等
