@@ -25,7 +25,8 @@ func main() {
 	// 	{'A', 'D', 'E', 'E'},
 	// }, "ABCCED"))
 	// fmt.Println(medium.MovingCount(14, 14, 5))
-	fmt.Println(easy.PrintNumbers(2))
+	// fmt.Println(easy.PrintNumbers(2))
+	fmt.Println(easy.Exchange([]int{1, 2, 3, 4}))
 }
 
 func PrintArrInt(arr []int) {
