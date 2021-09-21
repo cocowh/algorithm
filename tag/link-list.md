@@ -11,3 +11,4 @@
 题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
 [0006](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [从尾到头打印链表](https://github.com/cocowh/algorithm/blob/master/easy/offer.6.从尾到头打印链表.go) | 简单
+[0018](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [删除链表的节点](https://github.com/cocowh/algorithm/blob/master/easy/offer.18.删除链表的节点.go) | 简单
