@@ -32,4 +32,5 @@
 
 题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
-[0007](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [重建二叉树](https://github.com/cocowh/algorithm/blob/master/medium/105.从前序与中序遍历序列构造二叉树.go) | 中等
+[0007](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [重建二叉树](https://github.com/cocowh/algorithm/blob/master/medium/offer.7.从前序与中序遍历序列构造二叉树.go) | 中等
+[0026](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | [树的子结构](https://github.com/cocowh/algorithm/blob/master/medium/offer.26.树的子结构.go) | 中等
