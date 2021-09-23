@@ -144,7 +144,7 @@ func (c *GenRect) ComputeIntersect() *Rect {
 }
 func TestComputeIntersect() {
 	ins := &GenRect{}
-	res := &Rect{}
+	var res *Rect
 	r1 := &Rect{1, 1, 3, 3}
 	r2 := &Rect{2, 2, 4, 4}
 	ins.Construct(r1, r2)
