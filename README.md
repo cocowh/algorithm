@@ -25,6 +25,8 @@ Implement algorithm with go
 
 ### [sliding window](https://github.com/cocowh/algorithm/blob/master/tag/sliding-window.md)
 
+### [stack](https://github.com/cocowh/algorithm/blob/master/tag/stack.md)
+
 ### [string](https://github.com/cocowh/algorithm/blob/master/tag/string.md)
 
 ### [tree](https://github.com/cocowh/algorithm/blob/master/tag/tree.md)

@@ -27,7 +27,7 @@ func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 	}
 }
 
-func mergeTwoListsII(l1 *ListNode, l2 *ListNode) *ListNode {
+func MergeTwoListsII(l1 *ListNode, l2 *ListNode) *ListNode {
 	l := &ListNode{Next: l1}
 	curr := l
 	for l1 != nil && l2 != nil {
