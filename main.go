@@ -1,7 +1,7 @@
 package main
 
 import (
-	"algorithm/easy"
+	"algorithm/company"
 	"fmt"
 )
 
@@ -26,7 +26,8 @@ func main() {
 	// }, "ABCCED"))
 	// fmt.Println(medium.MovingCount(14, 14, 5))
 	// fmt.Println(easy.PrintNumbers(2))
-	fmt.Println(easy.Exchange([]int{1, 2, 3, 4}))
+	// fmt.Println(easy.Exchange([]int{1, 2, 3, 4}))
+	company.TestComputeIntersect()
 }
 
 func PrintArrInt(arr []int) {
