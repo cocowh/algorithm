@@ -1,5 +1,9 @@
 package medium
 
+func IsSubStructure(A *TreeNode, B *TreeNode) bool {
+	return isSubStructure(A, B)
+}
+
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {

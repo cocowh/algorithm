@@ -1,5 +1,9 @@
 package easy
 
+func DeleteNode(head *ListNode, val int) *ListNode {
+	return deleteNode(head, val)
+}
+
 /**
  * Definition for singly-linked list.
  * type ListNode struct {

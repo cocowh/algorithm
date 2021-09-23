@@ -1,5 +1,9 @@
 package easy
 
+func GetKthFromEnd(head *ListNode, k int) *ListNode {
+	return getKthFromEnd(head, k)
+}
+
 /**
  * Definition for singly-linked list.
  * type ListNode struct {

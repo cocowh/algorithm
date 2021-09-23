@@ -1,5 +1,9 @@
 package easy
 
+func ReverseList(head *ListNode) *ListNode {
+	return reverseList(head)
+}
+
 /**
  * Definition for singly-linked list.
  * type ListNode struct {

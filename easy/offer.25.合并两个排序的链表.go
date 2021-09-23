@@ -1,5 +1,9 @@
 package easy
 
+func MergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
+	return mergeTwoLists(l1, l2)
+}
+
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
