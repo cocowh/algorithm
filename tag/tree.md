@@ -39,3 +39,4 @@
 [0032-I](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [从上到下打印二叉树](https://github.com/cocowh/algorithm/blob/master/medium/offer.32-I.从上到下打印二叉树.go) | 中等
 [0032-II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [从上到下打印二叉树 II](https://github.com/cocowh/algorithm/blob/master/medium/102.二叉树的层序遍历.go) | 中等
 [0032-III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [从上到下打印二叉树 III](https://github.com/cocowh/algorithm/blob/master/medium/offer.32-III.从上到下打印二叉树III.go) | 中等
+[0033](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [二叉搜索树的后序遍历序列](https://github.com/cocowh/algorithm/blob/master/medium/offer.33.二叉搜索树的后序遍历序列.go) | 中等

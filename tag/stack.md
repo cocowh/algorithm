@@ -18,3 +18,4 @@
 [0009](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [用两个栈实现队列](https://github.com/cocowh/algorithm/blob/master/easy/offer.9.用两个栈实现队列.go) | 简单
 [0030](https://leetcode-cn.com/problems/min-stack/) | [最小栈](https://github.com/cocowh/algorithm/blob/master/easy/155.最小栈.go) | 简单
 [0031](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | [栈的压入、弹出序列](https://github.com/cocowh/algorithm/blob/master/medium/946.验证栈序列.go) | 中等
+[0033](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [二叉搜索树的后序遍历序列](https://github.com/cocowh/algorithm/blob/master/medium/offer.33.二叉搜索树的后序遍历序列.go) | 中等
