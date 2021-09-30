@@ -36,5 +36,6 @@
 [0026](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | [树的子结构](https://github.com/cocowh/algorithm/blob/master/medium/offer.26.树的子结构.go) | 中等
 [0027](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof) | [二叉树的镜像](https://github.com/cocowh/algorithm/blob/master/easy/226.翻转二叉树.go) | 简单
 [0028](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [对称的二叉树](https://github.com/cocowh/algorithm/blob/master/easy/101.对称二叉树.go) | 简单
-[0032-I](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [从上到下打印二叉树](https://github.com/cocowh/algorithm/blob/master/medium/102.二叉树的层序遍历.go) | 中等
+[0032-I](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [从上到下打印二叉树](https://github.com/cocowh/algorithm/blob/master/medium/offer.32-I.从上到下打印二叉树.go) | 中等
 [0032-II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [从上到下打印二叉树 II](https://github.com/cocowh/algorithm/blob/master/medium/102.二叉树的层序遍历.go) | 中等
+[0032-III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [从上到下打印二叉树 III](https://github.com/cocowh/algorithm/blob/master/medium/offer.32-III.从上到下打印二叉树III.go) | 中等
