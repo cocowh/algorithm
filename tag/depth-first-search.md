@@ -26,3 +26,4 @@
 [0007](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [重建二叉树](https://github.com/cocowh/algorithm/blob/master/medium/105.从前序与中序遍历序列构造二叉树.go) | 中等
 [0012](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [矩阵中的路径](https://github.com/cocowh/algorithm/blob/master/medium/offer.12.矩阵中的路径.go) | 中等
 [0013](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [机器人的运动范围](https://github.com/cocowh/algorithm/blob/master/medium/offer.13.机器人的运动范围.go) | 中等
+[0034](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [二叉树中和为某一值的路径](https://github.com/cocowh/algorithm/blob/master/medium/113.路径总和-ii.go) | 中等
