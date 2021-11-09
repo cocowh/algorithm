@@ -4,6 +4,7 @@
 :-: | :-: | :-:
 [0010](https://leetcode-cn.com/problems/regular-expression-matching/description/) | [正则表达式匹配](https://github.com/cocowh/algorithm/blob/master/hard/10.正则表达式匹配.go) | 困难
 [0017](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/) | [电话号码的字母组合](https://github.com/cocowh/algorithm/blob/master/medium/17.电话号码的字母组合.go) | 中等
+[0025](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [K个一组翻转链表](https://github.com/cocowh/algorithm/blob/master/hard/25.k-个一组翻转链表.go) | 困难
 
 
 ### 剑指offer
