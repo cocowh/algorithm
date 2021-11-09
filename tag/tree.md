@@ -33,6 +33,7 @@
 [0226](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [翻转二叉树](https://github.com/cocowh/algorithm/blob/master/easy/226.翻转二叉树.go) | 简单
 [0230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/) | [二叉搜索树中第k小的元素](https://github.com/cocowh/algorithm/blob/master/medium/230.二叉搜索树中第k小的元素.go) | 中等
 [0236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [二叉树的最近公共祖先](https://github.com/cocowh/algorithm/blob/master/medium/236.二叉树的最近公共祖先.go) | 中等
+[0257](https://leetcode-cn.com/problems/binary-tree-paths/) | [二叉树的所有路径](https://github.com/cocowh/algorithm/blob/master/easy/257.二叉树的所有路径.go) | 简单
 
 ### 剑指offer
 
