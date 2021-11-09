@@ -13,6 +13,7 @@
 [0113](https://leetcode-cn.com/problems/path-sum-ii/description/) | [路径总和 II](https://github.com/cocowh/algorithm/blob/master/medium/113.路径总和-ii.go) | 中等
 [0114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/description/) | [二叉树展开为链表](https://github.com/cocowh/algorithm/blob/master/medium/114.二叉树展开为链表.go) | 中等
 [0116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [填充每个节点的下一个右侧节点指针](https://github.com/cocowh/algorithm/blob/master/medium/116.填充每个节点的下一个右侧节点指针.go) | 中等
+[0124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [二叉树中的最大路径和](https://github.com/cocowh/algorithm/blob/master/hard/124.二叉树中的最大路径和.go) | 困难
 [0129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/description/) | [求根节点到叶节点数字之和](https://github.com/cocowh/algorithm/blob/master/medium/129.求根节点到叶节点数字之和.go) | 中等
 [0144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) | [二叉树的前序遍历](https://github.com/cocowh/algorithm/blob/master/medium/144.二叉树的前序遍历.go) | 中等
 [0145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/) | [二叉树的后序遍历](https://github.com/cocowh/algorithm/blob/master/medium/145.二叉树的后序遍历.go) | 中等
