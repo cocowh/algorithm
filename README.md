@@ -9,6 +9,8 @@ Implement algorithm with go
 
 ### [binary search](https://github.com/cocowh/algorithm/blob/master/tag/binary-search.md)
 
+### [bit manipulation](https://github.com/cocowh/algorithm/blob/master/tag/bit-manipulation.md)
+
 ### [breadth first search](https://github.com/cocowh/algorithm/blob/master/tag/breadth-first-search.md)
 
 ### [depth first search](https://github.com/cocowh/algorithm/blob/master/tag/depth-first-search.md)
