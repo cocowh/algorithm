@@ -6,6 +6,7 @@
 [0011](https://leetcode-cn.com/problems/container-with-most-water/description/) | [盛最多水的容器](https://github.com/cocowh/algorithm/blob/master/medium/11.盛最多水的容器.go) | 中等
 [0015](https://leetcode-cn.com/problems/3sum/description/) | [三数之和](https://github.com/cocowh/algorithm/blob/master/medium/15.三数之和.go) | 中等
 [0016](https://leetcode-cn.com/problems/3sum-closest/description/) | [最接近的三数之和](https://github.com/cocowh/algorithm/blob/master/medium/16.最接近的三数之和.go) | 中等
+[0031](https://leetcode-cn.com/problems/next-permutation/) | [下一个排列](https://github.com/cocowh/algorithm/blob/master/medium/31.下一个排列.go) | 中等
 [0128](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [最长连续序列](https://github.com/cocowh/algorithm/blob/master/medium/128.最长连续序列.go) | 中等
 [0200](https://leetcode-cn.com/problems/number-of-islands/) | [岛屿数量](https://github.com/cocowh/algorithm/blob/master/medium/200.岛屿数量.go) | 中等
 [0503](https://leetcode-cn.com/problems/next-greater-element-ii/) | [下一个更大元素II](https://github.com/cocowh/algorithm/blob/master/medium/503.下一个更大元素-ii.go) | 中等
