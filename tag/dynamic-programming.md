@@ -17,6 +17,7 @@
 [0121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) | [买卖股票的最佳时机](https://github.com/cocowh/algorithm/blob/master/easy/121.买卖股票的最佳时机.go) | 简单
 [0122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [买卖股票的最佳时机-II](https://github.com/cocowh/algorithm/blob/master/easy/122.买卖股票的最佳时机-ii.go) | 简单
 [0221](https://leetcode-cn.com/problems/maximal-square/) | [最大正方形](https://github.com/cocowh/algorithm/blob/master/medium/221.最大正方形-ii.go) | 中等
+[1143](https://leetcode-cn.com/problems/longest-common-subsequence/) | [最长公共子序列](https://github.com/cocowh/algorithm/blob/master/medium/1143.最长公共子序列.go) | 中等
 
 
 ### 剑指offer
