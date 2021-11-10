@@ -35,6 +35,7 @@
 [0236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [二叉树的最近公共祖先](https://github.com/cocowh/algorithm/blob/master/medium/236.二叉树的最近公共祖先.go) | 中等
 [0257](https://leetcode-cn.com/problems/binary-tree-paths/) | [二叉树的所有路径](https://github.com/cocowh/algorithm/blob/master/easy/257.二叉树的所有路径.go) | 简单
 [0515](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) | [在每个树行中找最大值](https://github.com/cocowh/algorithm/blob/master/medium/515.在每个树行中找最大值.go) | 中等
+[0543](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [二叉树的直径](https://github.com/cocowh/algorithm/blob/master/easy/543.二叉树的直径.go) | 简单
 
 ### 剑指offer
 
