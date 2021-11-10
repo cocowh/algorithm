@@ -12,6 +12,7 @@
 [0503](https://leetcode-cn.com/problems/next-greater-element-ii/) | [下一个更大元素II](https://github.com/cocowh/algorithm/blob/master/medium/503.下一个更大元素-ii.go) | 中等
 [0560](https://leetcode-cn.com/problems/single-number/) | [和为K的子数组](https://github.com/cocowh/algorithm/blob/master/medium/560.和为-k-的子数组.go) | 中等
 [0695](https://leetcode-cn.com/problems/max-area-of-island/) | [岛屿的最大面积](https://github.com/cocowh/algorithm/blob/master/medium/695.岛屿的最大面积.go) | 中
+[1299](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/) | [将每个元素替换为右侧最大元素](https://github.com/cocowh/algorithm/blob/master/easy/1299.将每个元素替换为右侧最大元素.go) | 简单
 
 
 ### 剑指offer
