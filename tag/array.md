@@ -21,3 +21,4 @@
 [0003](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [数组中重复的数字](https://github.com/cocowh/algorithm/blob/master/easy/offer.3.数组中重复的数字.go) | 简单
 [0004](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [二维数组中的查找](https://github.com/cocowh/algorithm/blob/master/medium/offer.4.二维数组中的查找.go) | 中等
 [0029](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [顺时针打印矩阵](https://github.com/cocowh/algorithm/blob/master/easy/offer.29.顺时针打印矩阵.go) | 简单
+[0061](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [扑克牌中的顺子](https://github.com/cocowh/algorithm/blob/master/easy/offer.61.扑克牌中的顺子.go) | 简单
