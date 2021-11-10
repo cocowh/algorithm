@@ -11,6 +11,7 @@
 [0206](https://leetcode-cn.com/problems/reverse-linked-list/) | [反转链表](https://github.com/cocowh/algorithm/blob/master/easy/206.反转链表.go) | 简单
 [0328](https://leetcode-cn.com/problems/odd-even-linked-list/) | [奇偶链表](https://github.com/cocowh/algorithm/blob/master/medium/328.奇偶链表.go) | 中等
 [0141](https://leetcode-cn.com/problems/linked-list-cycle/description/) | [环形链表](https://github.com/cocowh/algorithm/blob/master/easy/141.环形链表.go) | 简单
+[0160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [相交链表](https://github.com/cocowh/algorithm/blob/master/easy/160.相交链表.go) | 简单
 
 ### 剑指offer
 
