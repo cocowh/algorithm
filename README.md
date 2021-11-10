@@ -21,6 +21,8 @@ Implement algorithm with go
 
 ### [hash table](https://github.com/cocowh/algorithm/blob/master/tag/hash-table.md)
 
+### [heap](https://github.com/cocowh/algorithm/blob/master/tag/heap.md)
+
 ### [link list](https://github.com/cocowh/algorithm/blob/master/tag/link-list.md)
 
 ### [math](https://github.com/cocowh/algorithm/blob/master/tag/math.md)
