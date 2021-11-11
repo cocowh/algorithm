@@ -9,6 +9,7 @@
 [0031](https://leetcode-cn.com/problems/next-permutation/) | [下一个排列](https://github.com/cocowh/algorithm/blob/master/medium/31.下一个排列.go) | 中等
 [0041](https://leetcode-cn.com/problems/first-missing-positive/) | [缺失的第一个正数](https://github.com/cocowh/algorithm/blob/master/hard/41.缺失的第一个正数.go) | 困难
 [0033](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [搜索旋转排序数组](https://github.com/cocowh/algorithm/blob/master/medium/33.搜索旋转排序数组.go) | 中等
+[0046](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/cocowh/algorithm/blob/master/medium/46.全排列.go) | 中等
 [0054](https://leetcode-cn.com/problems/spiral-matrix/) | [螺旋矩阵](https://github.com/cocowh/algorithm/blob/master/medium/54.螺旋矩阵.go) | 中等
 [0056](https://leetcode-cn.com/problems/merge-intervals/) | [合并区间](https://github.com/cocowh/algorithm/blob/master/medium/56.合并区间.go) | 中等
 [0128](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [最长连续序列](https://github.com/cocowh/algorithm/blob/master/medium/128.最长连续序列.go) | 中等

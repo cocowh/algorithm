@@ -6,6 +6,7 @@
 [0017](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/) | [电话号码的字母组合](https://github.com/cocowh/algorithm/blob/master/medium/17.电话号码的字母组合.go) | 中等
 [0022](https://leetcode-cn.com/problems/generate-parentheses/) | [括号生成](https://github.com/cocowh/algorithm/blob/master/medium/22.括号生成.go) | 中等
 [0025](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [K个一组翻转链表](https://github.com/cocowh/algorithm/blob/master/hard/25.k-个一组翻转链表.go) | 困难
+[0046](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/cocowh/algorithm/blob/master/medium/46.全排列.go) | 中等
 
 
 ### 剑指offer
