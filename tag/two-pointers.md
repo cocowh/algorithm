@@ -16,6 +16,7 @@
 [0061](https://leetcode-cn.com/problems/rotate-list/description/) | [旋转链表](https://github.com/cocowh/algorithm/blob/master/medium/61.旋转链表.go) | 中等
 [0075](https://leetcode-cn.com/problems/rotate-list/description/) | [颜色分类](https://github.com/cocowh/algorithm/blob/master/medium/75.颜色分类.go) | 中等
 [0141](https://leetcode-cn.com/problems/linked-list-cycle/description/) | [环形链表](https://github.com/cocowh/algorithm/blob/master/easy/141.环形链表.go) | 简单
+[0143](https://leetcode-cn.com/problems/reorder-list/) | [重排链表](https://github.com/cocowh/algorithm/blob/master/medium/141.重排链表.go) | 中等
 [0287](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | [寻找重复数](https://github.com/cocowh/algorithm/blob/master/medium/287.寻找重复数.go) | 中等
 
 
