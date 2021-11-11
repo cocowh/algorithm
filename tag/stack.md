@@ -8,6 +8,7 @@
 [0155](https://leetcode-cn.com/problems/min-stack/) | [最小栈](https://github.com/cocowh/algorithm/blob/master/easy/155.最小栈.go) | 简单
 [0173](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [二叉搜索树迭代器](https://github.com/cocowh/algorithm/blob/master/medium/173.二叉搜索树迭代器.go) | 中等
 [0230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/) | [二叉搜索树中第k小的元素](https://github.com/cocowh/algorithm/blob/master/medium/230.二叉搜索树中第k小的元素.go) | 中等
+[0402](https://leetcode-cn.com/problems/remove-k-digits/) | [移掉K位数字](https://github.com/cocowh/algorithm/blob/master/medium/402.移掉-k-位数字.go) | 中等
 [0503](https://leetcode-cn.com/problems/next-greater-element-ii/) | [下一个更大元素II](https://github.com/cocowh/algorithm/blob/master/medium/503.下一个更大元素-ii.go) | 中等
 [0946](https://leetcode-cn.com/problems/validate-stack-sequences/) | [验证栈序列](https://github.com/cocowh/algorithm/blob/master/medium/946.验证栈序列.go) | 中等
 

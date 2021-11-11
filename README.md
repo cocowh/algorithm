@@ -19,6 +19,8 @@ Implement algorithm with go
 
 ### [dynamic programming](https://github.com/cocowh/algorithm/blob/master/tag/dynamic-programming.md)
 
+### [greedy](https://github.com/cocowh/algorithm/blob/master/tag/greedy.md)
+
 ### [hash table](https://github.com/cocowh/algorithm/blob/master/tag/hash-table.md)
 
 ### [heap](https://github.com/cocowh/algorithm/blob/master/tag/heap.md)
