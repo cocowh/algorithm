@@ -13,6 +13,7 @@
 [0022](https://leetcode-cn.com/problems/generate-parentheses/) | [括号生成](https://github.com/cocowh/algorithm/blob/master/medium/22.括号生成.go) | 中等
 [0067](https://leetcode-cn.com/problems/add-binary/) | [二进制求和](https://github.com/cocowh/algorithm/blob/master/easy/67.二进制求和.go) | 简单
 [0076](https://leetcode-cn.com/problems/minimum-window-substring/) | [最小覆盖子串](https://github.com/cocowh/algorithm/blob/master/hard/76.最小覆盖子串.go) | 困难
+[0383](https://leetcode-cn.com/problems/ransom-note/) | [赎金信](https://github.com/cocowh/algorithm/blob/master/easy/383.赎金信.go) | 简单
 [0415](https://leetcode-cn.com/problems/add-strings/) | [字符串相加](https://github.com/cocowh/algorithm/blob/master/easy/415.字符串相加.go) | 简单
 [1143](https://leetcode-cn.com/problems/longest-common-subsequence/) | [最长公共子序列](https://github.com/cocowh/algorithm/blob/master/medium/1143.最长公共子序列.go) | 中等
 

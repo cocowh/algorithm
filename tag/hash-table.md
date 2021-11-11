@@ -9,6 +9,7 @@
 [0076](https://leetcode-cn.com/problems/minimum-window-substring/) | [最小覆盖子串](https://github.com/cocowh/algorithm/blob/master/hard/76.最小覆盖子串.go) | 困难
 [0136](https://leetcode-cn.com/problems/single-number/) | [只出现一次的数字](https://github.com/cocowh/algorithm/blob/master/easy/136.只出现一次的数字.go) | 简单
 [0128](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [最长连续序列](https://github.com/cocowh/algorithm/blob/master/medium/128.最长连续序列.go) | 中等
+[0383](https://leetcode-cn.com/problems/ransom-note/) | [赎金信](https://github.com/cocowh/algorithm/blob/master/easy/383.赎金信.go) | 简单
 [0560](https://leetcode-cn.com/problems/single-number/) | [和为K的子数组](https://github.com/cocowh/algorithm/blob/master/medium/560.和为-k-的子数组.go) | 中等
 
 
