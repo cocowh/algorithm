@@ -6,6 +6,7 @@
 [0023](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [合并K个升序链表](https://github.com/cocowh/algorithm/blob/master/hard/23.合并k个升序链表.go) | 困难
 [0024](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [两两交换链表中的节点](https://github.com/cocowh/algorithm/blob/master/medium/24.两两交换链表中的节点.go) | 中等
 [0025](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [K个一组翻转链表](https://github.com/cocowh/algorithm/blob/master/hard/25.k-个一组翻转链表.go) | 困难
+[0082](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [删除排序链表中的重复元素II](https://github.com/cocowh/algorithm/blob/master/medium/82.删除排序链表中的重复元素-ii.go) | 中等
 [0092](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [反转链表II](https://github.com/cocowh/algorithm/blob/master/medium/92.反转链表-ii.go) | 中等
 [0109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [有序链表转换二叉搜索树](https://github.com/cocowh/algorithm/blob/master/medium/109.有序链表转换二叉搜索树.go) | 中等
 [0138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [复制带随机指针的链表](https://github.com/cocowh/algorithm/blob/master/medium/138.复制带随机指针的链表.go) | 中等
