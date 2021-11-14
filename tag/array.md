@@ -7,6 +7,7 @@
 [0015](https://leetcode-cn.com/problems/3sum/description/) | [三数之和](https://github.com/cocowh/algorithm/blob/master/medium/15.三数之和.go) | 中等
 [0016](https://leetcode-cn.com/problems/3sum-closest/description/) | [最接近的三数之和](https://github.com/cocowh/algorithm/blob/master/medium/16.最接近的三数之和.go) | 中等
 [0031](https://leetcode-cn.com/problems/next-permutation/) | [下一个排列](https://github.com/cocowh/algorithm/blob/master/medium/31.下一个排列.go) | 中等
+[0039](https://leetcode-cn.com/problems/combination-sum/) | [组合总和](https://github.com/cocowh/algorithm/blob/master/medium/39.组合总和.go) | 中等
 [0041](https://leetcode-cn.com/problems/first-missing-positive/) | [缺失的第一个正数](https://github.com/cocowh/algorithm/blob/master/hard/41.缺失的第一个正数.go) | 困难
 [0033](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [搜索旋转排序数组](https://github.com/cocowh/algorithm/blob/master/medium/33.搜索旋转排序数组.go) | 中等
 [0046](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/cocowh/algorithm/blob/master/medium/46.全排列.go) | 中等
