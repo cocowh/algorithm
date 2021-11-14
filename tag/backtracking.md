@@ -8,6 +8,7 @@
 [0025](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [K个一组翻转链表](https://github.com/cocowh/algorithm/blob/master/hard/25.k-个一组翻转链表.go) | 困难
 [0039](https://leetcode-cn.com/problems/combination-sum/) | [组合总和](https://github.com/cocowh/algorithm/blob/master/medium/39.组合总和.go) | 中等
 [0046](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/cocowh/algorithm/blob/master/medium/46.全排列.go) | 中等
+[0093](https://leetcode-cn.com/problems/restore-ip-addresses/) | [复原IP地址](https://github.com/cocowh/algorithm/blob/master/medium/93.复原-ip-地址.go) | 中等
 
 
 ### 剑指offer
