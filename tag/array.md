@@ -15,6 +15,7 @@
 [0056](https://leetcode-cn.com/problems/merge-intervals/) | [合并区间](https://github.com/cocowh/algorithm/blob/master/medium/56.合并区间.go) | 中等
 [0088](https://leetcode-cn.com/problems/merge-sorted-array/) | [合并两个有序数组](https://github.com/cocowh/algorithm/blob/master/easy/88.合并两个有序数组.go) | 简单
 [0128](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [最长连续序列](https://github.com/cocowh/algorithm/blob/master/medium/128.最长连续序列.go) | 中等
+[0135](https://leetcode-cn.com/problems/candy/) | [分发糖果](https://github.com/cocowh/algorithm/blob/master/hard/135.分发糖果.go) | 困难
 [0198](https://leetcode-cn.com/problems/house-robber/) | [打家劫舍](https://github.com/cocowh/algorithm/blob/master/medium/198.打家劫舍.go) | 中等
 [0200](https://leetcode-cn.com/problems/number-of-islands/) | [岛屿数量](https://github.com/cocowh/algorithm/blob/master/medium/200.岛屿数量.go) | 中等
 [0209](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [长度最小的子数组](https://github.com/cocowh/algorithm/blob/master/medium/209.长度最小的子数组.go) | 中等
