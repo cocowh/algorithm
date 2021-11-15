@@ -13,6 +13,7 @@
 [0383](https://leetcode-cn.com/problems/ransom-note/) | [赎金信](https://github.com/cocowh/algorithm/blob/master/easy/383.赎金信.go) | 简单
 [0454](https://leetcode-cn.com/problems/4sum-ii/) | [四数相加II](https://github.com/cocowh/algorithm/blob/master/medium/454.四数相加-ii.go) | 中等
 [0560](https://leetcode-cn.com/problems/single-number/) | [和为K的子数组](https://github.com/cocowh/algorithm/blob/master/medium/560.和为-k-的子数组.go) | 中等
+[0763](https://leetcode-cn.com/problems/partition-labels/) | [划分字母区间](https://github.com/cocowh/algorithm/blob/master/medium/763.划分字母区间.go) | 中等
 
 
 ### 剑指offer

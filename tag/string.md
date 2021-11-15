@@ -17,6 +17,7 @@
 [0093](https://leetcode-cn.com/problems/restore-ip-addresses/) | [复原IP地址](https://github.com/cocowh/algorithm/blob/master/medium/93.复原-ip-地址.go) | 中等
 [0383](https://leetcode-cn.com/problems/ransom-note/) | [赎金信](https://github.com/cocowh/algorithm/blob/master/easy/383.赎金信.go) | 简单
 [0415](https://leetcode-cn.com/problems/add-strings/) | [字符串相加](https://github.com/cocowh/algorithm/blob/master/easy/415.字符串相加.go) | 简单
+[0763](https://leetcode-cn.com/problems/partition-labels/) | [划分字母区间](https://github.com/cocowh/algorithm/blob/master/medium/763.划分字母区间.go) | 中等
 [1143](https://leetcode-cn.com/problems/longest-common-subsequence/) | [最长公共子序列](https://github.com/cocowh/algorithm/blob/master/medium/1143.最长公共子序列.go) | 中等
 
 

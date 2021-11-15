@@ -20,7 +20,7 @@
 [0141](https://leetcode-cn.com/problems/linked-list-cycle/description/) | [环形链表](https://github.com/cocowh/algorithm/blob/master/easy/141.环形链表.go) | 简单
 [0143](https://leetcode-cn.com/problems/reorder-list/) | [重排链表](https://github.com/cocowh/algorithm/blob/master/medium/141.重排链表.go) | 中等
 [0287](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | [寻找重复数](https://github.com/cocowh/algorithm/blob/master/medium/287.寻找重复数.go) | 中等
-
+[0763](https://leetcode-cn.com/problems/partition-labels/) | [划分字母区间](https://github.com/cocowh/algorithm/blob/master/medium/763.划分字母区间.go) | 中等
 
 ### 剑指offer
 
