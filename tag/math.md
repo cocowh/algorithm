@@ -9,7 +9,8 @@
 [0012](https://leetcode-cn.com/problems/integer-to-roman/description/) | [整数转罗马数字](https://github.com/cocowh/algorithm/blob/master/medium/12.整数转罗马数字.go) | 中等
 [0013](https://leetcode-cn.com/problems/roman-to-integer/description/) | [罗马数字转整数](https://github.com/cocowh/algorithm/blob/master/easy/13.罗马数字转整数.go) | 简单
 [0067](https://leetcode-cn.com/problems/add-binary/) | [二进制求和](https://github.com/cocowh/algorithm/blob/master/easy/67.二进制求和.go) | 简单
-[0089](https://leetcode-cn.com/problems/gray-code/description/) | [格雷编码](https://github.com/cocowh/algorithm/blob/master/medium/0089.格雷编码.go) | 中等
+[0089](https://leetcode-cn.com/problems/gray-code/description/) | [格雷编码](https://github.com/cocowh/algorithm/blob/master/medium/89.格雷编码.go) | 中等
+[0670](https://leetcode-cn.com/problems/maximum-swap/) | [最大交换](https://github.com/cocowh/algorithm/blob/master/medium/670.最大交换.go) | 中等
 
 ### 剑指offer
 
