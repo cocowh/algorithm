@@ -1,3 +1,5 @@
+package easy
+
 /*
  * @lc app=leetcode.cn id=383 lang=golang
  *
@@ -20,4 +22,3 @@ func canConstruct(ransomNote string, magazine string) bool {
 }
 
 // @lc code=end
-
